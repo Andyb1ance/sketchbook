@@ -1,0 +1,6 @@
+README.md
+voxelmorph.egg-info/PKG-INFO
+voxelmorph.egg-info/SOURCES.txt
+voxelmorph.egg-info/dependency_links.txt
+voxelmorph.egg-info/requires.txt
+voxelmorph.egg-info/top_level.txt
